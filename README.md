@@ -1,1 +1,1 @@
-https://GITHUB-c0smi26.io/rsschool-cv/cv
+cv-c0smi.netlify.app
