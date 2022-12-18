@@ -1,1 +1,1 @@
-# rsschool-cv
+cv-c0smi.netlify.app
